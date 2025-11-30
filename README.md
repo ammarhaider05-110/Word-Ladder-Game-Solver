@@ -27,3 +27,9 @@
 5. **Output**
    - Prints the full word ladder, step by step.
    - If there is no valid path, prints that no ladder exists.
+
+# Demo Video
+
+Here is a short demo with audio explanation of how the Word Ladder Solver works:
+
+<video src="Screen Recording 2025-11-30 at 12.28.46 AM.mp4" controls width="600"></video>
